@@ -1,6 +1,7 @@
 ### 👋 Hi there! I'm Jennifer
 
-<p>I'm currently a full stack software engineering student at <a href="https://hackbrightacademy.com/" target="_blank">Hackbright Academy</a>, specializing in Python, JavaScript, HTML, CSS, SQL.</p>
+<p>I'm a full stack software engineer!
+<p>I graduated from <a href="https://hackbrightacademy.com/" target="_blank">Hackbright Academy</a>, where I specialized in Python, JavaScript, HTML, CSS, SQL.</p>
 
 <p><a href="https://www.linkedin.com/in/jenniferlei/">
   <img

@@ -1,7 +1,8 @@
 ### 👋 Hi there! I'm Jennifer
 
-<p>I'm a full stack software engineer!
-<p>I graduated from <a href="https://hackbrightacademy.com/" target="_blank">Hackbright Academy</a>, where I specialized in Python, JavaScript, HTML, CSS, SQL.</p>
+<p>I'm a full stack software engineer, <a href="https://hackbrightacademy.com/" target="_blank">Hackbright Academy</a> grad, dog mom of two.
+- 😄 Pronouns: she/her
+- 🌱 Python, JavaScript, HTML, CSS, SQL, React
 
 <p><a href="https://www.linkedin.com/in/jenniferlei/">
   <img
@@ -15,9 +16,6 @@
     src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
   />
 </a></p>
-
-- 😄 Pronouns: she/her
-- 🌱 I’m currently learning: React
 
 ### 🛠 Languages and Tools:
 

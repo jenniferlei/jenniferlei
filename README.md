@@ -1,6 +1,7 @@
 ### 👋 Hi there! I'm Jennifer
 
 <p>I'm a full stack software engineer, <a href="https://hackbrightacademy.com/" target="_blank">Hackbright Academy</a> grad, dog mom of two.
+
 - 😄 Pronouns: she/her
 - 🌱 Python, JavaScript, HTML, CSS, SQL, React
 
